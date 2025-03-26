@@ -1,2 +1,0 @@
-this version doesnt work
-Altough gymnasium documentation mentions a slippery version, this env does not exist.
